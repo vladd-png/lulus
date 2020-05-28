@@ -214,7 +214,7 @@ nav a {
 @media (min-width: 500px) and (max-width: 824px) {
     .mobile-menu ul li a {
         padding: 5px 20px;
-    }    
+    }
 }
 @media (max-width: 824px) {
 	#header-links {
@@ -347,6 +347,9 @@ h1 {
 .menu-items li {
     text-align: center;
 }
+.rona-img {
+  width: 100%;
+}
 p.menu-intro {
     font-size: .8775rem;
     text-align: center;
@@ -355,7 +358,7 @@ p.menu-intro {
 .menu-item {
     margin-bottom: 0;
     font-size: 0.8775em;
-}    
+}
 .menu-price {
     color: #a91d20;
 }
@@ -522,7 +525,7 @@ li.flex-active {
 #instagram h1 {
     text-align: left;
     -webkit-transform: rotate(357deg);
-    -o-transform: rotate(357deg); 
+    -o-transform: rotate(357deg);
     transform: rotate(357deg);
 }
 .map iframe {
@@ -713,7 +716,7 @@ hr {
     position: absolute;
     top: -18px;
     right: -18px;
-    cursor: pointer;   
+    cursor: pointer;
 }
 #overlay-close img {
     width: 45px;
@@ -848,7 +851,7 @@ hr {
     position: absolute;
     top: -38px;
     right: -38px;
-    cursor: pointer;   
+    cursor: pointer;
 }
 #catering-overlay img {
     width: 100%;
@@ -881,7 +884,7 @@ hr {
 }
 #job-overlay-content {
     width: 900px;
-    max-width: 90%; 
+    max-width: 90%;
     border: 20px solid rgba(82,74,67,.82);
     background: url(../img/catering-bg.gif);
     padding: 0px 30px 30px 30px;
