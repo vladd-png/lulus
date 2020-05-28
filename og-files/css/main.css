@@ -326,7 +326,7 @@ h1 {
     letter-spacing: 1px;
     font-size: 1.5rem;
 }
-.starters h2, .dinners h2, .sides h2, .to-go h2 {
+.rona h2, .starters h2, .dinners h2, .sides h2, .to-go h2 {
     background: url(../img/flag-bg-sm.png) no-repeat;
     background-position: top right;
     background-size: auto 100%;
@@ -367,9 +367,12 @@ p.menu-intro {
     margin-bottom: 0;
     font-size: .75em;
 }
-.starters, .sandwiches, .dinners, .sampler, .sides, .desserts, .kids, .to-go {
+.starters, .sandwiches, .dinners, .sampler, .sides, .desserts, .kids, .to-go, .rona {
     background-size: cover;
     background-repeat: no-repeat;
+}
+.rona {
+  background-image: url(../img/Rona-Slush.jpg);
 }
 .starters {
     background-image: url(../img/starters.jpg);
